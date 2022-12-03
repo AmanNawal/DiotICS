@@ -96,3 +96,4 @@
 ## Body Temperature
    
  *  **Type 1 diabetic Patients have Low body temperature (below 97F)**
+ *  **Environment (Hot n humid) can result in increase in blood sugar level **
