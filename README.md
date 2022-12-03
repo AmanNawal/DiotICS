@@ -1,6 +1,6 @@
 # DiotICS
 
-## Pre Existing Research
+## Pre Existing Data
 
 **Report** [s2is_2015.pdf](https://github.com/AmanNawal/DiotICS/files/10138697/s2is_2015.pdf)   
 
