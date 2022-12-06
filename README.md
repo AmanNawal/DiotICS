@@ -97,3 +97,19 @@
    
  *  **Type 1 diabetic Patients have Low body temperature (below 97F)**
  *  **Environment (Hot n humid) can result in increase in blood sugar level**
+ 
+ 
+ ## VoC
+ 
+ <img src="https://user-images.githubusercontent.com/74124514/205816751-c48a4a99-3e93-43b2-bc66-fa5f1cbaa484.png" style="height:300px;width:500px">
+ 
+ ## Objective
+ 
+  ![image](https://user-images.githubusercontent.com/74124514/205817529-bf1a040b-3e4c-4e3e-9e3f-069d140c5e4b.png)
+ 
+ 
+ ## Acetone Concentration in human breathe
+ 
+ ![image](https://user-images.githubusercontent.com/74124514/205818057-5db8d79f-2fe8-4a86-b70f-dc491219ecbe.png)
+
+
