@@ -112,4 +112,10 @@
  
  ![image](https://user-images.githubusercontent.com/74124514/205818057-5db8d79f-2fe8-4a86-b70f-dc491219ecbe.png)
 
+## NumPy Library Notes
+[Notes Jupyter Notebook](https://jovian.ai/aakashns/python-numerical-computing-with-numpy)
+
+## Pandas 
+
+[Pandas Jupyter Notebook](https://jovian.ai/aakashns/python-pandas-data-analysis)
 
